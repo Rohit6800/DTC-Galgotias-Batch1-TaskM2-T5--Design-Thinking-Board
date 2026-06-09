@@ -4,7 +4,7 @@
 ## Course Details
 Course Name: Critical Thinking, Design Thinking, Leadership and Teamwork  
 College Name: Galgotias University  
-Batch Number: 5  
+Batch Number: 01
 Task No: 05  
 Task Name: Design Thinking Board  
 
